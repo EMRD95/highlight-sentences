@@ -2,7 +2,7 @@ Option Explicit
 
 
 
-Sub Sample()
+Sub HighlightSentences()
 
     Dim MyArray() As String
 
